@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|d:\\nguyencongquyenanh_net\\lab06\\ncqa_lab06\\views\\ncqahome\\ncqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|solutionrelative:views\\ncqahome\\ncqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|d:\\nguyencongquyenanh_net\\lab06\\ncqa_lab06\\views\\shared\\_ncqalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|solutionrelative:views\\shared\\_ncqalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|d:\\nguyencongquyenanh_net\\lab06\\ncqa_lab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|d:\\nguyencongquyenanh_net\\lab06\\ncqa_lab06\\views\\ncqahome\\ncqaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|solutionrelative:views\\ncqahome\\ncqaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|d:\\nguyencongquyenanh_net\\lab06\\ncqa_lab06\\controllers\\ncqahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|solutionrelative:controllers\\ncqahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|d:\\nguyencongquyenanh_net\\lab06\\ncqa_lab06\\views\\shared\\_ncqanavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|solutionrelative:views\\shared\\_ncqanavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|d:\\nguyencongquyenanh_net\\lab06\\ncqa_lab06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5FE3BD5-2E07-4E3B-85C4-EE6C76461A60}|ncqa_lab06.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:22:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ncqaAbout.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\ncqaHome\\ncqaAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\ncqaHome\\ncqaAbout.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\ncqaHome\\ncqaAbout.cshtml",
+              "RelativeToolTip": "Views\\ncqaHome\\ncqaAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:04:34.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ncqaIndex.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\ncqaHome\\ncqaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\ncqaHome\\ncqaIndex.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\ncqaHome\\ncqaIndex.cshtml",
+              "RelativeToolTip": "Views\\ncqaHome\\ncqaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:03:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ncqaHomeController.cs",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Controllers\\ncqaHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ncqaHomeController.cs",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Controllers\\ncqaHomeController.cs",
+              "RelativeToolTip": "Controllers\\ncqaHomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:00:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ncqaNavBar.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\Shared\\_ncqaNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ncqaNavBar.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\Shared\\_ncqaNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ncqaNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:55:32.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ncqaLayout.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\Shared\\_ncqaLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ncqaLayout.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\Shared\\_ncqaLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ncqaLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:51:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\Lab06\\ncqa_lab06\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:50:18.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
