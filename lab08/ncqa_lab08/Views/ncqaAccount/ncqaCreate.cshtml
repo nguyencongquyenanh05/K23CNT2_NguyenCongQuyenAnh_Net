@@ -1,0 +1,75 @@
+﻿@model ncqa_lab08.Models.ncqaAccount
+
+@{
+    ViewData["Title"] = "ncqaCreate";
+}
+
+<h1>ncqaCreate</h1>
+
+<h4>ncqaAccount</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ncqaCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ncqaId" class="control-label"></label>
+                <input asp-for="ncqaId" class="form-control" />
+                <span asp-validation-for="ncqaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaFullName" class="control-label"></label>
+                <input asp-for="ncqaFullName" class="form-control" />
+                <span asp-validation-for="ncqaFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaEmail" class="control-label"></label>
+                <input asp-for="ncqaEmail" class="form-control" />
+                <span asp-validation-for="ncqaEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaPhone" class="control-label"></label>
+                <input asp-for="ncqaPhone" class="form-control" />
+                <span asp-validation-for="ncqaPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaAddress" class="control-label"></label>
+                <input asp-for="ncqaAddress" class="form-control" />
+                <span asp-validation-for="ncqaAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaAvatar" class="control-label"></label>
+                <input asp-for="ncqaAvatar" class="form-control" />
+                <span asp-validation-for="ncqaAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaBirthday" class="control-label"></label>
+                <input asp-for="ncqaBirthday" class="form-control" />
+                <span asp-validation-for="ncqaBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaGender" class="control-label"></label>
+                <input asp-for="ncqaGender" class="form-control" />
+                <span asp-validation-for="ncqaGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaPassword" class="control-label"></label>
+                <input asp-for="ncqaPassword" class="form-control" />
+                <span asp-validation-for="ncqaPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ncqaFacebook" class="control-label"></label>
+                <input asp-for="ncqaFacebook" class="form-control" />
+                <span asp-validation-for="ncqaFacebook" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ncqa_lab08
+build_property.RootNamespace = ncqa_lab08
+build_property.ProjectDir = D:\NguyenCongQuyenAnh_Net\K23CNT2_NguyenCongQuyenAnh_Net\lab08\ncqa_lab08\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\NguyenCongQuyenAnh_Net\K23CNT2_NguyenCongQuyenAnh_Net\lab08\ncqa_lab08
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/ncqaAccount/ncqaCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmNxYUFjY291bnRcbmNxYUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/ncqaAccount/ncqaIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmNxYUFjY291bnRcbmNxYUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/ncqaHome/ncqaAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmNxYUhvbWVcbmNxYUFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/ncqaHome/ncqaIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmNxYUhvbWVcbmNxYUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/Shared/_ncqaNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uY3FhTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NguyenCongQuyenAnh_Net/K23CNT2_NguyenCongQuyenAnh_Net/lab08/ncqa_lab08/Views/Shared/_ncqaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uY3FhTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-33kys1u3y4

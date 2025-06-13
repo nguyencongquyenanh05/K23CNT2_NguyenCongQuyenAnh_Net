@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\views\\ncqaaccount\\ncqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:views\\ncqaaccount\\ncqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\views\\ncqaaccount\\ncqacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:views\\ncqaaccount\\ncqacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\controllers\\ncqaaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:controllers\\ncqaaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\controllers\\ncqahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:controllers\\ncqahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\models\\ncqaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:models\\ncqaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\views\\shared\\_ncqanavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:views\\shared\\_ncqanavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\views\\ncqahome\\ncqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:views\\ncqahome\\ncqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\views\\shared\\_ncqalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:views\\shared\\_ncqalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|d:\\nguyencongquyenanh_net\\k23cnt2_nguyencongquyenanh_net\\lab08\\ncqa_lab08\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC16087F-0324-42CD-95E5-BDAA963C213B}|ncqa_lab08.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ncqaCreate.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\ncqaAccount\\ncqaCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\ncqaAccount\\ncqaCreate.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\ncqaAccount\\ncqaCreate.cshtml",
+              "RelativeToolTip": "Views\\ncqaAccount\\ncqaCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T03:58:38.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ncqaIndex.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\ncqaAccount\\ncqaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\ncqaAccount\\ncqaIndex.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\ncqaAccount\\ncqaIndex.cshtml",
+              "RelativeToolTip": "Views\\ncqaAccount\\ncqaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T03:34:16.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ncqaAccountController.cs",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Controllers\\ncqaAccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ncqaAccountController.cs",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Controllers\\ncqaAccountController.cs",
+              "RelativeToolTip": "Controllers\\ncqaAccountController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:31:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:12:03.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ncqaNavbar.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\Shared\\_ncqaNavbar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ncqaNavbar.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\Shared\\_ncqaNavbar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ncqaNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:54:38.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ncqaHomeController.cs",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Controllers\\ncqaHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ncqaHomeController.cs",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Controllers\\ncqaHomeController.cs",
+              "RelativeToolTip": "Controllers\\ncqaHomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:44:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ncqaLayout.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\Shared\\_ncqaLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ncqaLayout.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\Shared\\_ncqaLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ncqaLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:46:10.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ncqaAccount.cs",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Models\\ncqaAccount.cs",
+              "RelativeDocumentMoniker": "Models\\ncqaAccount.cs",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Models\\ncqaAccount.cs",
+              "RelativeToolTip": "Models\\ncqaAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:20:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:45:08.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:41:09.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ncqaIndex.cshtml",
+              "DocumentMoniker": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\ncqaHome\\ncqaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\ncqaHome\\ncqaIndex.cshtml",
+              "ToolTip": "D:\\NguyenCongQuyenAnh_Net\\K23CNT2_NguyenCongQuyenAnh_Net\\lab08\\ncqa_lab08\\Views\\ncqaHome\\ncqaIndex.cshtml",
+              "RelativeToolTip": "Views\\ncqaHome\\ncqaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:34:09.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

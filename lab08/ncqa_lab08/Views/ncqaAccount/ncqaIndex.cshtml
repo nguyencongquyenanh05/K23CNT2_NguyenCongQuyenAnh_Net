@@ -1,0 +1,89 @@
+﻿@model IEnumerable<ncqa_lab08.Models.ncqaAccount>
+
+@{
+    ViewData["Title"] = "ncqaIndex";
+}
+
+<h1>ncqaIndex</h1>
+
+<p>
+    <a asp-action="ncqaCreate" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaAvatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaBirthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ncqaFacebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaAvatar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaBirthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ncqaFacebook)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
